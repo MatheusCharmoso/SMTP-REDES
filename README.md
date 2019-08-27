@@ -1,6 +1,7 @@
 # Pojeto SMTP
 
-O projeto SMTP, é um trabalho proposto pelo professor Leandro Alexandre.
+O projeto SMTP, é um trabalho proposto pelo professor Leandro Alexandre, que consiste em implementar um protocolo simples de transferência de email (SMTP)
+.
 
 ## Como usar
 
